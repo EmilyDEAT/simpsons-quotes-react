@@ -1,7 +1,7 @@
 # Demo
-The priject on Netlify [here](https://wizardly-curran-332804.netlify.com)
+The project on Netlify [here](https://wizardly-curran-332804.netlify.com)
 
-
+# Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
